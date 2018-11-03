@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lucene-backward-codecs-6.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lib/lucene-backward-codecs-6.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/lucene-analyzers-common-6.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/lucene-queryparser-6.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/lucene-core-6.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
